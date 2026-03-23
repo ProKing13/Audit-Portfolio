@@ -29,6 +29,11 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 
 
 
+## 📝 Published Articles
+
+- [Formal Verification Basic](https://x.com/Pro___King1/status/2025188520399196602?s=20)
+- [Advanced Formal Verification](https://x.com/Pro___King1/status/2026982303637864471?s=20)
+
 ## 🔒 Private Engagements
 
 | Date | Team | Protocol | Category | Report |
