@@ -37,13 +37,13 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 
 ## 🔒 Private Engagements
 
-| Date | Team | Protocol | Category | Report |
+| Date | Via | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
 | March 2025| Solo | PinSave-Optimism | NFT | [📄](https://github.com/ProKing13/Audit-Reports/blob/main/PinSave-Optimism-Report.pdf) |
-| May   2026| Team | Floors Finance   | Bonding Curve,Staking | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Floors%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
-| May   2026| Team | Aument V2 | Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Aument%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
-| May   2026| Solo | NDA | ERC20 Token| [📄]() |
-|June   2026| Team | LienFi | RWA, NFT Marketplace | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/LienFi%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+| May   2026| QuillAudits | Floors Finance   | Bonding Curve,Staking | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Floors%20Finance%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+| May   2026| QuillAudits | Aument V2 | Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Aument%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+| May   2026| Solo | NDA | ERC20 Token| Report not public (NDA) |
+|June   2026| QuillAudits | LienFi | RWA, NFT Marketplace | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/LienFi%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 
 ### Public Contest History
 
@@ -68,6 +68,16 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 | [Debita Finance V3](https://audits.sherlock.xyz/contests/627) | Lending | 1H 1M | [📄](Contests-Reports/2024/2024-11-Debita%20Finance%20V3.md) |
 | [Rova](https://audits.sherlock.xyz/contests/498) | Launchpad | 1M | [📄](Contests-Reports/2025/2025-02-Rova.md) |
 | [Cork](https://audits.sherlock.xyz/contests/506) | Lending | 1M | [📄](Contests-Reports/2024/2024-10-Cork%20Protocol.md) |
+| [Oku's New Order Types](https://audits.sherlock.xyz/contests/641) | Order Types, Oracle | 1M | [📄](Contests-Reports/2024/2024-12-Oku's%20New%20Order%20Types%20Contract%20Contest.md) |
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Marketplace | 2H | [📄](Contests-Reports/2024/2024-08-Tadle.md) |
 
 </details>
+
+## 🔍 Audit Triage
+
+| Project | Protocol Type | Platform | Language | Total Issues |
+| --- | --- | --- | --- | --- |
+| Optimism | L2 Rollup | Pashov Audit Group | Solidity | 91 |
+| Rootstock | Bitcoin Sidechain, Bridge | Pashov Audit Group | Solidity | 101 |
+| Rubic | Cross-chain Swap Aggregator | Pashov Audit Group | Solidity | 97 |
+| 1inch - Crosschain Swap| Cross-chain Swap | Pashov Audit Group | Solidity | 65 |
