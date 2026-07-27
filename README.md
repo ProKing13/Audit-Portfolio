@@ -78,6 +78,6 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 | Project | Protocol Type | Platform | Language | Total Issues |
 | --- | --- | --- | --- | --- |
 | Optimism | L2 Rollup | Pashov Audit Group | Solidity | 91 |
-| Rootstock | Bitcoin Sidechain, Bridge | Pashov Audit Group | Solidity | 101 |
-| Rubic | Cross-chain Swap Aggregator | Pashov Audit Group | Solidity | 97 |
-| 1inch - Crosschain Swap| Cross-chain Swap | Pashov Audit Group | Solidity | 65 |
+| Rootstock | Bridge | Pashov Audit Group | Solidity | 101 |
+| Rubic | Swap Aggregator | Pashov Audit Group | Solidity | 97 |
+| 1inch | Cross-chain Swap | Pashov Audit Group | Solidity | 65 |
