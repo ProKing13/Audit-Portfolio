@@ -44,6 +44,9 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 | May   2026| QuillAudits | Aument V2 | Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Aument%20V2%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 | May   2026| Solo | NDA | ERC20 Token| Report not public (NDA) |
 |June   2026| QuillAudits | LienFi | RWA, NFT Marketplace | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/LienFi%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|June   2026| QuillAudits | The Truth Network Foundation | Cross-chain bridge | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/The%20Truth%20Network%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|July   2026| QuillAudits — Lead | GigaBlocks | NFT, Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/GigaBlocks%20Smart%20Contract%20V2%20Audit%20Report%20-%20QuillAudits.pdf) |
+|August  2026| QuillAudits — Lead | SL Labs | ERC-20 Token & Linear Vesting | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/SL%20Labs%20Audit%20Report%20-%20QuillAudits.pdf) |
 
 ### Public Contest History
 
