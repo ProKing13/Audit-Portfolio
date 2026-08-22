@@ -48,7 +48,7 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 |July   2026| QuillAudits — Lead | GigaBlocks | NFT, Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/GigaBlocks%20Smart%20Contract%20V2%20Audit%20Report%20-%20QuillAudits.pdf) |
 |August  2026| QuillAudits — Lead | SL Labs | ERC-20 Token & Linear Vesting | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/SL%20Labs%20Audit%20Report%20-%20QuillAudits.pdf) |
 
-### Public Contest History
+## 🏆 Public Contest History
 
 <details open> <summary><strong> Public Contests</strong></summary>
 
@@ -84,3 +84,15 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 | Rootstock | Bridge | Pashov Audit Group | Solidity | 101 |
 | Rubic | Swap Aggregator | Pashov Audit Group | Solidity | 97 |
 | 1inch | Cross-chain Swap | Pashov Audit Group | Solidity | 65 |
+
+## ✅ Formal Verification (Certora)
+
+Certora Prover specs written during private engagements  **310 rules and invariants** across 15 spec files (13 contracts).
+
+| Protocol | Specs | Rules & Invariants | Work |
+| --- | --- | --- | --- |
+| SL Labs | 3 | 140 | [📁](Formal%20Verification%20Work/SL%20Labs/formal-verification) |
+| LienFi | 4 | 63 | [📁](Formal%20Verification%20Work/LienFi/formal-verification) |
+| GigaBlocks | 2 | 42 | [📁](Formal%20Verification%20Work/GigaBlocks/formal-verification) |
+| Aument V2 | 5 | 40 | [📁](Formal%20Verification%20Work/Aument%20V2/formal-verification) |
+| The Truth Network | 1 | 25 | [📁](Formal%20Verification%20Work/The%20Truth%20Network/formal-verification) |
