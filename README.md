@@ -12,7 +12,7 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 
 
 🔗 Connect (DM for audit)
-[🐦 Twitter (@Pro___King1)](https://x.com/Pro___King1) | 💬 Discord (@pro_king1) | [<img src="https://cdn.simpleicons.org/telegram" width="14" height="14" alt="Telegram"> Telegram (@proking2)](https://t.me/proking2)
+[<img src="https://cdn.simpleicons.org/x/000000/ffffff" width="14" height="14" alt="X"> X (@Pro___King1)](https://x.com/Pro___King1) | <img src="https://cdn.simpleicons.org/discord" width="14" height="14" alt="Discord"> Discord (@pro_king1) | [<img src="https://cdn.simpleicons.org/telegram" width="14" height="14" alt="Telegram"> Telegram (@proking2)](https://t.me/proking2)
 
 🛠️ Technical Expertise
 
@@ -45,7 +45,7 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 | May   2026| Solo | NDA | ERC20 Token| Report not public (NDA) |
 |June   2026| QuillAudits | LienFi | RWA, NFT Marketplace | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/LienFi%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |June   2026| QuillAudits | The Truth Network Foundation | Cross-chain bridge | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/The%20Truth%20Network%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
-|June   2026| QuillAudits | Jurat| Safe Wallet Fork| [📄](hhttps://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Jurat%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
+|June   2026| QuillAudits | Jurat| Safe Wallet Fork| [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Jurat%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |July   2026| QuillAudits — Lead | GigaBlocks | NFT, Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/GigaBlocks%20Smart%20Contract%20V2%20Audit%20Report%20-%20QuillAudits.pdf) |
 |August  2026| QuillAudits — Lead | SL Labs | ERC-20 Token & Linear Vesting | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/SL%20Labs%20Audit%20Report%20-%20QuillAudits.pdf) |
 
