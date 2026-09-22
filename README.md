@@ -6,7 +6,7 @@
 
 Independent Web3 Security Researcher focused on securing DeFi, Cross-chain infrastructure, and Token standards.
 
-Contributor on Sherlock, Code4rena, Immunefi, and Codehawks with multiple podium finishes and top 10 rankings.
+Contributor on Sherlock, Code4rena, Immunefi, and CodeHawks with multiple podium finishes and top 10 rankings.
 
 Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 
@@ -48,6 +48,11 @@ Currently SR with [QuillAudits](https://x.com/QuillAudits_AI)
 |June   2026| QuillAudits | Jurat| Safe Wallet Fork| [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/Jurat%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf) |
 |July   2026| QuillAudits — Lead | GigaBlocks | NFT, Escrow | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/GigaBlocks%20Smart%20Contract%20V2%20Audit%20Report%20-%20QuillAudits.pdf) |
 |August  2026| QuillAudits — Lead | SL Labs | ERC-20 Token & Linear Vesting | [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/SL%20Labs%20Audit%20Report%20-%20QuillAudits.pdf) |
+|August  2026| QuillAudits | MST |  Randomness coordinator
+| [📄 Coming Soon]() |
+|August  2026| QuillAudits  | RapiDex | AMM| [📄 Coming soon]() |
+|August  2026| QuillAudits  | House Market | Bonding Curve| [📄 Coming soon]() |
+|Sep  2026| QuillAudits  | BXCT | Tokenzied fund register| [📄](https://github.com/Quillhash/QuillAudit_smart_contract_audit_Reports/blob/master/BXCT%20Smart%20Contract%20Audit-Report%20-%20QuillAudits.pdf) |
 
 ## 🏆 Public Contest History
 
